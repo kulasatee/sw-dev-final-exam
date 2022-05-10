@@ -99,10 +99,97 @@
     </div>
     <div class="columns">
       <div class="column">
-        <v-card elevation="2"></v-card>
+        <div class="card">
+          <header class="card-header">
+            <p class="card-header-title">
+              หลักสูตร : การวางแผนชุมชนเมืองและสภาพแวดล้อม
+            </p>
+            <button class="card-header-icon" aria-label="more options">
+              <span class="icon">
+                <i class="fas fa-angle-down" aria-hidden="true"></i>
+              </span>
+            </button>
+          </header>
+          <div class="card-content">
+            <div class="content">
+              หลักสูตร : การวางแผนชุมชนเมืองและสภาพแวดล้อม
+              <br />
+              คณะ : สถาปัตยกรรม ศิลปะและการออกแบบ
+              <br />
+              วันที่เปิดรับสมัคร :
+              <time datetime=""> 24 กุมภาพันธ์ 2022 - 31 พฤษภาคม 2022</time>
+            </div>
+          </div>
+          <footer class="card-footer">
+            <a href="#" class="card-footer-item">สมัคร</a>
+            <a href="#" class="card-footer-item">ประกาศรับสมัคร</a>
+            <a href="#" class="card-footer-item">คุณสมบัติผู้สมัคร</a>
+          </footer>
+        </div>
       </div>
     </div>
-    
+    <div class="columns">
+      <div class="column">
+        <div class="card">
+          <header class="card-header">
+            <p class="card-header-title">
+              หลักสูตร : การวางแผนชุมชนเมืองและสภาพแวดล้อม
+            </p>
+            <button class="card-header-icon" aria-label="more options">
+              <span class="icon">
+                <i class="fas fa-angle-down" aria-hidden="true"></i>
+              </span>
+            </button>
+          </header>
+          <div class="card-content">
+            <div class="content">
+              หลักสูตร : การวางแผนชุมชนเมืองและสภาพแวดล้อม
+              <br />
+              คณะ : สถาปัตยกรรม ศิลปะและการออกแบบ
+              <br />
+              วันที่เปิดรับสมัคร :
+              <time datetime=""> 24 กุมภาพันธ์ 2022 - 31 พฤษภาคม 2022</time>
+            </div>
+          </div>
+          <footer class="card-footer">
+            <a href="#" class="card-footer-item">สมัคร</a>
+            <a href="#" class="card-footer-item">ประกาศรับสมัคร</a>
+            <a href="#" class="card-footer-item">คุณสมบัติผู้สมัคร</a>
+          </footer>
+        </div>
+      </div>
+    </div>
+    <div class="columns">
+      <div class="column">
+        <div class="card">
+          <header class="card-header">
+            <p class="card-header-title">
+              หลักสูตร : การวางแผนชุมชนเมืองและสภาพแวดล้อม
+            </p>
+            <button class="card-header-icon" aria-label="more options">
+              <span class="icon">
+                <i class="fas fa-angle-down" aria-hidden="true"></i>
+              </span>
+            </button>
+          </header>
+          <div class="card-content">
+            <div class="content">
+              หลักสูตร : การวางแผนชุมชนเมืองและสภาพแวดล้อม
+              <br />
+              คณะ : สถาปัตยกรรม ศิลปะและการออกแบบ
+              <br />
+              วันที่เปิดรับสมัคร :
+              <time datetime=""> 24 กุมภาพันธ์ 2022 - 31 พฤษภาคม 2022</time>
+            </div>
+          </div>
+          <footer class="card-footer">
+            <a href="#" class="card-footer-item">สมัคร</a>
+            <a href="#" class="card-footer-item">ประกาศรับสมัคร</a>
+            <a href="#" class="card-footer-item">คุณสมบัติผู้สมัคร</a>
+          </footer>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
